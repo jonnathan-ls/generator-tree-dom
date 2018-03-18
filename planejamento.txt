@@ -1,0 +1,10 @@
+1. Pagina Web para inserir o link ou poder enviar o arquivo.
+2. Algoritimo
+	2.1 Coletar todos os elementos em um Array ou Lista
+	2.2 Separar cada Elemento em um novo Array ou Lista
+	2.3 Coletar propriedades de cada elemento
+	2.4 Coletar conteudo de dentro da Tag
+	2.5 ...
+3. Mostrar na Web Index estrutura da Arvore
+4. Criar Janela Modal para cada elemento contendo o conteudo (propriedades) da Tag
+
