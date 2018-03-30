@@ -1,11 +1,12 @@
 1. Pagina Web para inserir o link ou poder enviar o arquivo. (COMPLICADO)
-Alternativa: Fornecer o arquivo JS para o usuário inserir na própria página e visualizar o resultado.
+	1.1 Alternativa: Fornecer o arquivo JS para o usuário inserir na própria página e visualizar o resultado. (OK)
 2. Algoritimo
 	2.1 Coletar todos os elementos em um Array ou Lista (OK);
-	2.2 Separar cada Elemento em um novo Array ou Lista
+	2.2 Separar cada Elemento em um novo Array ou Lista (DESNECESSÁRIO)
 	2.3 Coletar propriedades de cada elemento (OK);
-	2.4 Coletar conteudo de dentro da Tags
+	2.3 Coletar atributos de cada elemento (OK);
+	2.4 Coletar conteudo de dentro da Tags (OK);
 	2.5 ...
-3. Mostrar na Web Index estrutura da Arvore (pré-elaborado);
-4. Criar Janela Modal para cada elemento contendo o conteudo e propriedades da Tag (pré-elaborado);
+3. Mostrar na Web Index estrutura da Arvore (OK);
+4. Criar Janela Modal para cada elemento contendo o conteudo e propriedades da Tag (OK);
 
